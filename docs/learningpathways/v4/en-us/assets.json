@@ -11,6 +11,50 @@
     "StatusNote": ""
   },
   {
+    "Id": "9C777918-F825-4B9E-8F67-0D1D0BC4D8F5",
+    "Title": "Get started with Power Apps",
+    "Description": "",
+    "Url": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-powerapps?embed=true",
+    "TechnologyId": "9C777918-F825-4B9E-8F67-0D1D0BC4D8F5",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "0B5414F8-BE04-48AD-A1AE-85CE69A4C287",
+    "Title": "Create a canvas app in Power Apps",
+    "Description": "",
+    "Url": "https://docs.microsoft.com/en-us/learn/paths/create-powerapps?embed=true",
+    "TechnologyId": "9C777918-F825-4B9E-8F67-0D1D0BC4D8F5",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "8D5FFDE5-25BA-4E35-B728-044BFCF55DDF",
+    "Title": "Get started with Power Automate",
+    "Description": "",
+    "Url": "https://docs.microsoft.com/en-us/power-automate/getting-started?embed=true",
+    "TechnologyId": "FF2764C4-40D4-4F21-A152-15F97FCCC083",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "08A7DD65-6089-4A64-90D1-35B45E84D8CF",
+    "Title": "Get started with triggers",
+    "Description": "",
+    "Url": "https://docs.microsoft.com/en-us/power-automate/triggers-introduction?embed=true",
+    "TechnologyId": "FF2764C4-40D4-4F21-A152-15F97FCCC083",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
     "Id": "0cf0055d-49f8-464e-9dfa-8f582b32453b",
     "Title": "Save your workbook to OneDrive",
     "Description": "",

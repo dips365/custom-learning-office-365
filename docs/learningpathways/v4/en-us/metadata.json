@@ -6,6 +6,16 @@
       "Subjects": []
     },
     {
+      "Id": "FF2764C4-40D4-4F21-A152-15F97FCCC083",
+      "Name": "Power Automate",
+      "Subjects": []
+    },
+    {
+      "Id": "9C777918-F825-4B9E-8F67-0D1D0BC4D8F5",
+      "Name": "Power App",
+      "Subjects": []
+    },
+    {
       "Id": "33059862-a87d-4b40-9984-be7c6083cf95",
       "Name": "Forms",
       "Subjects": []
@@ -221,6 +231,24 @@
           "Name": "Outlook",
           "Image": "images/categories/outlook.png",
           "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "6E50FB44-A047-43A8-AC71-F2044582E992",
+          "Name": "Power Apps",
+          "Image": "images/categories/powerapps.png",
+          "TechnologyId": "9C777918-F825-4B9E-8F67-0D1D0BC4D8F5",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "74150E05-80FB-47FD-AA47-09FC9DDD7723",
+          "Name": "Power Automates",
+          "Image": "images/categories/PowerAutomate.png",
+          "TechnologyId": "FF2764C4-40D4-4F21-A152-15F97FCCC083",
           "SubjectId": null,
           "Source": "Microsoft",
           "SubCategories": []
